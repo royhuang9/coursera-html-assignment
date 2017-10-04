@@ -24,7 +24,6 @@ h1 {
 }
 
 .sub-menu > div {
-	position: relative;
 	float: right;
 	width: 120px;
 	text-align: center;
